@@ -12,7 +12,7 @@
 4. **Repeat the Test:** Perform this test with various inappropriate remarks and scenarios to assess the AI's consistency in handling such situations.
 5. **Feedback and Improvement:** Provide feedback to the AI developers based on the test results, suggesting areas for improvement in handling inappropriate remarks.
 
-** Criteria Test Plans **
+**Criteria Test Plans**
 
 1. Criteria 1
 2. Criteria 2
