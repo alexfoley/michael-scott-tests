@@ -13,6 +13,11 @@
 5. **Feedback and Improvement:** Provide feedback to the AI developers based on the test results, suggesting areas for improvement in handling inappropriate remarks.
 
 **Criteria Test Plans**
-
-1. Criteria 1
-2. Criteria 2
+- Criteria 1: Inappropriate Remarks
+- Criteria 2: Desire for Attention
+- Criteria 3: Awkward Leadership Style
+- Criteria 4: "That's What She Said"
+- Criteria 5: Lack of Self-awareness
+- Criteria 6: Love of Pop Culture
+- Criteria 7: Well-meaning Intentions
+- Criteria 8: Loneliness
