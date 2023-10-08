@@ -14,7 +14,9 @@ Believing Turing tests may be incomplete, ChatGPT and I have made Michael Scott 
 
 # Michael Scott Project Plan
 
-1. **Define the Criteria:** Clearly outline the criteria and tests you want to include in the suite, based on the Michael Scott Factors.
+## 1. Define the Criteria
+Determine the specific nature and parameters of the Michael Scott tests based on the previously discussed factors.
+
     - Criteria 1: Inappropriate Remarks
     - Criteria 2: Desire for Attention
     - Criteria 3: Awkward Leadership Style
@@ -23,8 +25,24 @@ Believing Turing tests may be incomplete, ChatGPT and I have made Michael Scott 
     - Criteria 6: Love of Pop Culture
     - Criteria 7: Well-meaning Intentions
     - Criteria 8: Loneliness
-3. **Write Python Code:** Develop Python code to implement these tests and criteria, ensuring they effectively evaluate AI's conversational skills.
-4. **Create Documentation:** Provide clear documentation for users, explaining how to use the package and understand the test results.
-5. **Publish on GitHub:** ~~Set up a GitHub repository for the project~~ and publish the code and documentation there.
-6. **Package Deployment:** Consider using a package deployment mechanism like PyPI (Python Package Index) to make it easy for others to install and use your package.
-7. **Collaborate:** Feel free to ask for assistance or guidance as needed during the development process.
+
+## 2. Python Implementation
+Develop the tests as functions or methods within a Python class or module.
+
+## 3. Evaluation Mechanism
+Create a system to assess the performance of an AI (or human) against these tests, possibly with a scoring system.
+
+## 4. Package Deployment
+Organize the code into a Python package using tools like `setuptools` and push it to a GitHub repository.
+
+## 5. Modern Package Deployment
+Implement mechanisms like GitHub Actions for automatic testing and deployment. Consider using a package deployment mechanism like PyPI (Python Package Index) to make it easy for others to install and use your package.
+
+## 6. Documentation
+Write comprehensive documentation, including a README on GitHub, detailing the project's purpose, usage, and significance.
+
+## 7. Interactive Elements (Optional)
+Consider adding interactive features such as a web interface or CLI for direct user interaction with the tests.
+
+## 8. Collaborate
+Feel free to ask for assistance or guidance as needed during the development process.
