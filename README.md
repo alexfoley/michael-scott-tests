@@ -12,7 +12,7 @@ Believing Turing tests may be incomplete, ChatGPT and I have made Michael Scott 
 7. **Well-meaning Intentions:** Despite his quirks, Michael generally has well-meaning intentions and genuinely cares about his colleagues.
 8. **Loneliness:** At times, Michael expresses feelings of loneliness and seeks companionship and connection with others.
 
-# Project Plan
+# Michael Scott Project Plan
 
 1. **Define the Criteria:** Clearly outline the criteria and tests you want to include in the suite, based on the Michael Scott Factors.
     - Criteria 1: Inappropriate Remarks
