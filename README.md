@@ -15,14 +15,14 @@ Believing Turing tests may be incomplete, ChatGPT and I have made Michael Scott 
 # Project Plan
 
 1. **Define the Criteria:** Clearly outline the criteria and tests you want to include in the suite, based on the Michael Scott Factors.
-    -- Criteria 1: Inappropriate Remarks
-    -- Criteria 2: Desire for Attention
-    -- Criteria 3: Awkward Leadership Style
-    -- Criteria 4: "That's What She Said"
-    -- Criteria 5: Lack of Self-awareness
-    -- Criteria 6: Love of Pop Culture
-    -- Criteria 7: Well-meaning Intentions
-    -- Criteria 8: Loneliness
+    - Criteria 1: Inappropriate Remarks
+    - Criteria 2: Desire for Attention
+    - Criteria 3: Awkward Leadership Style
+    - Criteria 4: "That's What She Said"
+    - Criteria 5: Lack of Self-awareness
+    - Criteria 6: Love of Pop Culture
+    - Criteria 7: Well-meaning Intentions
+    - Criteria 8: Loneliness
 3. **Write Python Code:** Develop Python code to implement these tests and criteria, ensuring they effectively evaluate AI's conversational skills.
 4. **Create Documentation:** Provide clear documentation for users, explaining how to use the package and understand the test results.
 5. **Publish on GitHub:** ~~Set up a GitHub repository for the project~~ and publish the code and documentation there.
